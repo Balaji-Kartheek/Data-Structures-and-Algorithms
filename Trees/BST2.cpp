@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 /*
     search in a BST is O(log(n))
     for each level passing no. of nodes to check is decreased by a factor 2

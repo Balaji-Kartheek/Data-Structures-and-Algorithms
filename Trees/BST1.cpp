@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 /*
     BINARY SEARCH TREE
     rule1: left subtree contains only key's lesser than the node key
