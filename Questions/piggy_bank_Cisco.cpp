@@ -2,6 +2,7 @@
 using namespace std;
 
 
+
 int piggyBank(int arr[],int n){
 
     int amount = 0;

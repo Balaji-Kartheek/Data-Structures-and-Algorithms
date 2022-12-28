@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 /*
     1.from the given graph generate the sum graph
     2. count the number of even nodes in sum graph

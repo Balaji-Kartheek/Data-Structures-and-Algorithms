@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 void billamount(int X){
 
     int value = X;
