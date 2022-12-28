@@ -6,6 +6,7 @@ using namespace std;
 
 
 
+
 int binary_seach(int key,int arr[],int n){
 
     int first = 0;
