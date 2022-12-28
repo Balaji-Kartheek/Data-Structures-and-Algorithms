@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
+// end sem
 class Patient{
 
     // Detals of the Patient should be in Public
