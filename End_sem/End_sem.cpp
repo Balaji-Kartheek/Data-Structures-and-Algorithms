@@ -2,6 +2,22 @@
 using namespace std;
 
 // end sem
+
+/*
+1. Write a C++ program with a class PATIENT for a group of 12 
+diabetic patients holding data for their Patient ID, Name, Age, 
+Fasting Glucose, Random Glucose. 
+a) Call linear search function to display data of patient with a 
+particular Patient ID.
+b) Call bubble sort function to arrange data of patients according 
+to Patient ID and display the sorted list. Also, write a function to 
+display the details of the patient whose Fasting Glucose > 120 
+and Random Glucose is > 150.
+c) Apply binary search on the above sorted list (part b) to display 
+data of a patient with Random Glucose value is 150
+*/
+
+
 class Patient{
 
     // Detals of the Patient should be in Public
