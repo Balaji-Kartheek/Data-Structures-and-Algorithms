@@ -6,6 +6,8 @@ struct node{
     node* left;
     node* right;
 
+    
+
     node(int value){
         this->data = value;
         this->left = NULL;
